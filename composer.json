@@ -1,5 +1,5 @@
 {
-    "name": "pma987/test",
+    "name": "pma987/test2",
     "description": "Lets you find a path to the system CA bundle, and includes a fallback to the Mozilla CA bundle.",
     "type": "library",
     "license": "MIT",
